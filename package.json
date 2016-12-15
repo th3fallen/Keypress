@@ -12,4 +12,8 @@
       "compiler.jar"
     ]
   }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmauro/Keypress.git"
+  },
 }
